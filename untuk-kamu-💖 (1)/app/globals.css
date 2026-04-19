@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --color-rose-50: #FCF8F7;
+  --color-rose-100: #FFF5F4;
+  --color-rose-200: #FFEBE9;
+  --color-rose-300: #F9D9D5;
+  --color-rose-400: #E8B4B8;
+  --color-rose-500: #D97777;
+  --color-rose-600: #c15a5a;
+  --color-rose-700: #8c5350;
+  --color-rose-800: #4A2C2A;
+  --color-rose-900: #4A2C2A;
+  --color-rose-950: #2d1a19;
+  
+  --shadow-sleek: 0 4px 20px rgba(74, 44, 42, 0.03);
+}
